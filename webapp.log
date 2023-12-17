@@ -1,1 +1,7 @@
 2023/12/01 09:07:01 main.go:16: test
+2023/12/16 12:12:22 users.go:60: near "upddate": syntax error
+2023/12/16 18:59:19 todos.go:20: near "todos": syntax error
+2023/12/16 18:59:58 todos.go:20: near "valuse": syntax error
+2023/12/16 19:04:41 todos.go:22: table todos has no column named context
+2023/12/17 09:04:14 todos.go:93: near "content": syntax error
+2023/12/17 09:20:46 todos.go:93: near "user_id": syntax error
